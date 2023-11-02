@@ -1,5 +1,4 @@
-11.02 11:35 AM
-Sughel.python
+
 # This program adds two numbers
 
 num1 = 1.5
